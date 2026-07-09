@@ -1,42 +1,22 @@
+# Contributing
 
-# Contributor Covenant Code of Conduct
+Thank you for considering contributing to this project!
 
-## Our Pledge
+The following types of contributions are welcome:
 
-We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone.
+- Bug reports
+- Bug fixes
+- Documentation improvements
+- Enhancements
+- New ideas
 
-## Our Standards
+## How to Contribute
 
-Examples of behavior that contributes to creating a positive environment include:
+1. Fork this repository.
+2. Create a new feature branch.
+3. Make your changes.
+4. Commit your changes.
+5. Push to your fork.
+6. Submit a Pull Request.
 
-- Using welcoming and inclusive language
-- Being respectful of differing viewpoints
-- Accepting constructive criticism
-- Showing empathy toward other community members
-
-Examples of unacceptable behavior include:
-
-- Harassment
-- Trolling
-- Personal attacks
-- Public or private harassment
-
-## Enforcement Responsibilities
-
-Community leaders are responsible for clarifying and enforcing our standards of acceptable behavior.
-
-## Scope
-
-This Code of Conduct applies within all community spaces and also applies when an individual officially represents the community in public spaces.
-
-## Enforcement
-
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders.
-
-## Enforcement Guidelines
-
-Community leaders will follow these Community Impact Guidelines in determining the consequences for any action they deem in violation of this Code of Conduct.
-
-## Attribution
-
-This Code of Conduct is adapted from the Contributor Covenant, version 2.0.
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
